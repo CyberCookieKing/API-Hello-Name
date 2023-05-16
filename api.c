@@ -1,6 +1,7 @@
 /******************************************************************************/
 /*                                                                            */
 /*                          API Server Hello Name                             */
+/*                         Auteur: CyberCookieKing                            */
 /*                                                                            */
 /* But:                                                                       */
 /*  Crée un serveur API simple utilisant la bibliothèque libmicrohttpd        */
